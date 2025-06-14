@@ -5,3 +5,7 @@ python-multipart
 pillow
 python-dotenv
 tqdm
+beautifulsoup4
+requests
+
+
